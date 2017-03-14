@@ -11,3 +11,4 @@ Explore cloud native storage technology and concepts around a container storage 
 * Ben Hindman (@benh) [chair]
 * Steven Tan (@stevenphtan)
 * Clinton Kitson (@clintonskitson)
+* Alex Chircop (@chira001)

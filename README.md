@@ -12,4 +12,5 @@ Explore cloud native storage technology and concepts around a container storage 
 * Steven Tan (@stevenphtan)
 * Clinton Kitson (@clintonskitson)
 * Alex Chircop (@chira001)
+* Venkat Ramakrishnan (@katkrish)
 * Gou Rao (@gourao)

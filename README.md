@@ -20,6 +20,7 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
 * Vinod Jayaraman (@jvinod)
 * Allen Samuels (@allensamuels)
 * Yaron Haviv (@yaronhaviv)
+* Rakesh Jain (@rakeshjn)
 
 ## Meeting Minutes
 

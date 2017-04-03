@@ -18,3 +18,4 @@ Explore cloud native storage technology and concepts around a container storage 
 * Vinod Jayaraman (@jvinod)
 * Allen Samuels (@allensamuels)
 * Yaron Haviv (@yaronhaviv)
+* Rakesh Jain (@rakeshjn)

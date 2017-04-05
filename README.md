@@ -21,6 +21,7 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
 * Allen Samuels (@allensamuels)
 * Yaron Haviv (@yaronhaviv)
 * Rakesh Jain (@rakeshjn)
+* John Griffith (@j-griffith)
 
 ## Meeting Minutes
 

@@ -45,6 +45,7 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
   * Vinod Jayaraman ([@jvinod](https://github.com/jvinod))
 * Red Hat
   * Steve Watt ([@wattsteve](https://github.com/wattsteve))
+  * Adam Litke ([#@aglitke](https://github.com/aglitke))
 * StorageOS
   * Alex Chircop ([@chira001](https://github.com/chira001))
 * Western Digital (SanDisk)

@@ -49,6 +49,8 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
   * Alex Chircop ([@chira001](https://github.com/chira001))
 * Western Digital (SanDisk)
   * Allen Samuels ([@allensamuels](https://github.com/allensamuels))
+* PURE Storage Inc
+  * Taher Vohra ([@taherv](https://github.com/taherv))
   
 ## Mailing List
 

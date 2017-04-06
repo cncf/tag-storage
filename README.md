@@ -37,7 +37,7 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
   * James DeFelice ([@jdef](https://github.com/jdef))
   * Jie Yu ([@jieyu](https://github.com/jieyu))
 * Portworx
-  * Venkat Ramakrishnan ([@katkrish](https://twitter.com/katkrish?lang=en))
+  * Venkat Ramakrishnan ([@venkatpx](https://github.com/venkatpx))
   * Gou Rao ([@gourao](https://github.com/gourao))
   * Vinod Jayaraman ([@jvinod](https://github.com/jvinod))
 * Red Hat

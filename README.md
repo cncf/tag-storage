@@ -43,6 +43,8 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
   * Venkat Ramakrishnan ([@venkatpx](https://github.com/venkatpx))
   * Gou Rao ([@gourao](https://github.com/gourao))
   * Vinod Jayaraman ([@jvinod](https://github.com/jvinod))
+* Quobyte
+  * Silvan Kaiser ([@casusbelli](https://github.com/casusbelli))
 * Red Hat
   * Steve Watt ([@wattsteve](https://github.com/wattsteve))
   * Adam Litke ([#@aglitke](https://github.com/aglitke))

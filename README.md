@@ -35,6 +35,7 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
   * Rakesh Jain ([@rakeshjn](https://github.com/rakeshjn))
 * iguazio
   * Yaron Haviv ([@yaronhaviv](https://github.com/yaronha))
+  * Orit Nissan-Messing ([@oritnnm](https://github.com/oritnm))
 * Mesosphere
   * Ben Hindman ([@benh](https://github.com/benh)) **[chair]**
   * James DeFelice ([@jdef](https://github.com/jdef))

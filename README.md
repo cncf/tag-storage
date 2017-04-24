@@ -29,7 +29,7 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
 * Huawei
   * Steven Tan ([@stevenphtan](https://github.com/stevenphtan))
 * IBM
-  * Sandy Amin ([@sandyamin123](https://github.com/sandyadmin123))
+  * Sandy Amin ([@sandyamin123](https://github.com/sandaymin123))
   * Akash Gunjal ([@akgunjal](https://github.com/akgunjal))
   * Mohamed Mohamed ([@midoblgsm](https://github.com/midoblgsm))
   * Rakesh Jain ([@rakeshjn](https://github.com/rakeshjn))

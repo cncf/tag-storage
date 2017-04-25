@@ -51,6 +51,7 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
   * Adam Litke ([#@aglitke](https://github.com/aglitke))
 * StorageOS
   * Alex Chircop ([@chira001](https://github.com/chira001))
+  * Simon Croome ([@croomes](https://github.com/croomes))  
 * Western Digital (SanDisk)
   * Allen Samuels ([@allensamuels](https://github.com/allensamuels))
 * PURE Storage Inc

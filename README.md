@@ -55,6 +55,8 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
   * Allen Samuels ([@allensamuels](https://github.com/allensamuels))
 * PURE Storage Inc
   * Taher Vohra ([@taherv](https://github.com/taherv))
+* LINBIT
+  * Hayley Swimelar([@haySwim](https://github.com/haySwim))
   
 ## Mailing List
 

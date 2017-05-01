@@ -55,6 +55,9 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
   * Allen Samuels ([@allensamuels](https://github.com/allensamuels))
 * PURE Storage Inc
   * Taher Vohra ([@taherv](https://github.com/taherv))
+* VMware
+  * Balu Dontu ([@BaluDontu](https://github.com/BaluDontu))
+  * Tushar Thole ([@tusharnt](https://github.com/tusharnt))
   
 ## Mailing List
 

@@ -55,7 +55,13 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
   * Allen Samuels ([@allensamuels](https://github.com/allensamuels))
 * PURE Storage Inc
   * Taher Vohra ([@taherv](https://github.com/taherv))
-  
+* NetApp
+  * Garrett Mueller ([@innergy](https://github.com/innergy))
+  * John Griffith ([@j-griffith](https://github.com/j-griffith))
+  * Clinton Knight ([@clintonk](https://github.com/clintonk))
+  * Jonathan Rippy ([@ntap-rippy](https://github.com/ntap-rippy))
+  * Ardalan Kangarlou ([@kangarlou](https://github.com/kangarlou))
+
 ## Mailing List
 
 https://groups.google.com/forum/#!forum/container-storage-interface-working-group

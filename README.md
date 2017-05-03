@@ -29,12 +29,13 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
 * Huawei
   * Steven Tan ([@stevenphtan](https://github.com/stevenphtan))
 * IBM
-  * Sandy Amin ([@sandyamin123](https://github.com/sandyadmin123))
+  * Sandy Amin ([@sandyamin123](https://github.com/sandaymin123))
   * Akash Gunjal ([@akgunjal](https://github.com/akgunjal))
   * Mohamed Mohamed ([@midoblgsm](https://github.com/midoblgsm))
   * Rakesh Jain ([@rakeshjn](https://github.com/rakeshjn))
 * iguazio
   * Yaron Haviv ([@yaronhaviv](https://github.com/yaronha))
+  * Orit Nissan-Messing ([@oritnnm](https://github.com/oritnm))
 * Mesosphere
   * Ben Hindman ([@benh](https://github.com/benh)) **[chair]**
   * James DeFelice ([@jdef](https://github.com/jdef))
@@ -43,6 +44,8 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
   * Venkat Ramakrishnan ([@venkatpx](https://github.com/venkatpx))
   * Gou Rao ([@gourao](https://github.com/gourao))
   * Vinod Jayaraman ([@jvinod](https://github.com/jvinod))
+* Quantum (rook.io)
+  * Bassam Tabbara ([@bassam](https://github.com/bassam))
 * Quobyte
   * Silvan Kaiser ([@casusbelli](https://github.com/casusbelli))
 * Red Hat

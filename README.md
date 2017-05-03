@@ -58,6 +58,7 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
   
 ## Mailing List
 
+https://groups.google.com/forum/#!forum/container-storage-interface-working-group
 https://groups.google.com/forum/#!forum/cncf-wg-storage
 
 ## Meeting Minutes

@@ -46,6 +46,8 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
   * Vinod Jayaraman ([@jvinod](https://github.com/jvinod))
 * Quantum (rook.io)
   * Bassam Tabbara ([@bassam](https://github.com/bassam))
+* Quobyte
+  * Silvan Kaiser ([@casusbelli](https://github.com/casusbelli))
 * Red Hat
   * Steve Watt ([@wattsteve](https://github.com/wattsteve))
   * Adam Litke ([#@aglitke](https://github.com/aglitke))

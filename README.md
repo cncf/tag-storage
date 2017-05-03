@@ -16,6 +16,8 @@ See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJ
 * Dell EMC
   * Clinton Kitson ([@clintonskitson](https://github.com/clintonskitson))
   * Steve Wong ([@cantbewong](https://github.com/cantbewong))
+* Datera
+  * Shailesh Mittal ([@mittalms](https://github.com/mittalms))
 * Diamanti
   * Chakravarthy Nelluri ([@chakri-nelluri](https://github.com/chakri-nelluri))
 * Docker

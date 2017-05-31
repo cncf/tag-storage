@@ -20,4 +20,4 @@ https://groups.google.com/forum/#!forum/cncf-wg-storage
 
 ## Meeting Minutes
 
-* First meeting doodle poll: http://doodle.com/poll/dpu7qqf9frnv42wm
+* First meeting doodle poll: http://doodle.com/poll/mgs93m3ufndeefi6

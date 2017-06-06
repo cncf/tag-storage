@@ -20,4 +20,6 @@ https://groups.google.com/forum/#!forum/cncf-wg-storage
 
 ## Meeting Minutes
 
-* First meeting doodle poll: http://doodle.com/poll/mgs93m3ufndeefi6
+The CNCF Storage WG meets every 2 weeks from 8am to 9am on Friday (PDT).
+
+There is a public Google calendar you can add the meetings to your calendar: https://goo.gl/eyutah

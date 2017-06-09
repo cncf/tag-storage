@@ -22,4 +22,10 @@ https://groups.google.com/forum/#!forum/cncf-wg-storage
 
 The CNCF Storage WG meets every 2 weeks from 8am to 9am on Friday (PDT).
 
+Meeting minutes are recorded here: https://goo.gl/wRqerO
+
 There is a public Google calendar you can add the meetings to your calendar: https://goo.gl/eyutah
+
+### Meeting Recordings
+
+* [6/9/2017](https://youtu.be/qAw3y6rdRbs)

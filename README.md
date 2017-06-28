@@ -12,7 +12,7 @@ Explore cloud native storage technology and concepts.
 
 A project that aims to define an industry standard “container storage interface” (CSI). This interface would enable a storage vendors to write a driver once and have it work across a number of container orchestration (CO) systems
 
-See this [google doc](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJmHF-DNY7IYP-Di7iuVhQI/edit#) for more information.
+See this repo for more information: https://github.com/container-storage-interface/spec
 
 ## Members and Mailing List
 

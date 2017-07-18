@@ -46,3 +46,4 @@ Meeting minutes are recorded here: https://goo.gl/wRqerO
 
 Recordings of meeting calls:
 * [6/9/2017](https://youtu.be/qAw3y6rdRbs)
+* [7/18/2017](https://zoom.us/recording/play/zIMhdwzItxsEEUvFk7gYxTOqShJoOjrPcFcV0mHm9N-Rf1Ql6fypw59APZBsjmmG )

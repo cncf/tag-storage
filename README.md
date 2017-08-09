@@ -6,7 +6,7 @@ CNCF Storage Working Group
 
 Explore cloud native storage technology and concepts.
 
-## Initiatives and Projects
+## Initiatives and Interesting Projects
 
 ### Container Storage Interface (CSI)
 
@@ -20,7 +20,7 @@ https://groups.google.com/forum/#!forum/cncf-wg-storage
 
 ## Meeting Minutes
 
-The Storage Working Group meets on the 1st and 3rd Friday of every month at 8AM PT (USA Pacific):
+The Storage Working Group meets on the 3rd Wednesday of every month at 8AM PT (USA Pacific):
 
 Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/158580155
 
@@ -33,8 +33,6 @@ Or Telephone:
     
 NOTE: Please use *6 to mute/un-mute your phone during the call.
     
-**Next meeting: June 30th**
-    
 Here is a public Google calendar so you can add the meetings to your calendar: https://goo.gl/eyutah
 
 Here is a link to a World Time Zone Converter here:  http://www.thetimezoneconverter.com/?t=8:00%20a.m.%20&tz=San%20Francisco&

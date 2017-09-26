@@ -20,7 +20,7 @@ https://groups.google.com/forum/#!forum/cncf-wg-storage
 
 ## Meeting Minutes
 
-The Storage Working Group meets on the 3rd Wednesday of every month at 8AM PT (USA Pacific):
+The Storage Working Group meets on the 2nd and 4th Wednesday of every month at 8AM PT (USA Pacific):
 
 Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/158580155
 
@@ -44,4 +44,6 @@ Meeting minutes are recorded here: https://goo.gl/wRqerO
 
 Recordings of meeting calls:
 * [6/9/2017](https://youtu.be/qAw3y6rdRbs)
-* [7/18/2017](https://zoom.us/recording/play/zIMhdwzItxsEEUvFk7gYxTOqShJoOjrPcFcV0mHm9N-Rf1Ql6fypw59APZBsjmmG )
+* [7/18/2017](https://zoom.us/recording/play/zIMhdwzItxsEEUvFk7gYxTOqShJoOjrPcFcV0mHm9N-Rf1Ql6fypw59APZBsjmmG)
+* [8/8/2017](https://www.youtube.com/watch?v=d_zQFASkssU)
+* [9/20/2017](https://www.youtube.com/watch?v=PjB4qXeN-ks)

@@ -6,6 +6,45 @@ CNCF Storage Working Group
 
 Explore cloud native storage technology and concepts.
 
+## Why is storage important to cloud native
+
+- There’s no such thing as a stateless architecture, applications store state somewhere
+- Storage further enables specific cloud native patterns
+- Interoperating with storage increases cloud native’s relevance and leads to better applications
+
+## Mission statement
+
+In support of cloud native computing, the SWG intends to enable a thriving storage eco-system that is vendor and platform neutral and interoperable for applications
+
+## Responsibilities
+
+- Make sense of storage eco-system supporting cloud native environments
+- Review storage projects
+- Assist storage projects in TOC project nomination process
+
+## Governance
+
+The storage working group is an open group of community members with a leading representative as defined by the CNCF TOC (Ben Hindman). It meets regularly and members provide input and opinions about storage topics. Leadership makes decisions on SWG perspectives to be delivered to the TOC. 
+
+## What is Cloud Native Storage
+Cloud Native Storage is a classification for storage resources that are interoperable for applications in cloud native environments. It is not necessarily a cloud native system itself, but supports decoupling of storage services from applications. Interoperability is possible through standard storage interfaces. These resources are reliable, consumed on-demand, and self-provisioned. Resources can be elastic in both capacity and performance and utilization is measured to enable optimal and efficient use. The consumption experience is completely seamless where operations are transparent. 
+
+Cloud Native Storage is not limited and specific to an access method or data structure. In fact numerous types of storage can all be classified using this application view. This is important to ensure that the evolving interaction of the application with storage is consistent. The shift from the monolithic application includes the storage of files and blocks in addition to more efficient and distributed higher-level structured data services. Cloud Native Storage supports a progressive view and not exclusive to volumes, objects, sql and nosql, keys and values, queues, time-series, logs, and records.
+
+In summary,
+- Consumption experience is seamless and operations are transparent
+  - Supports decoupling of storage services from applications
+- Resources consumed on-demand and self-provisioned
+  - Reliable and elastic in both capacity and performance
+- Seemingly unlimited resources that are measured to ensure optimal and efficient use
+  - Interoperability occurs through standard interfaces
+- CNS itself does NOT define a type of storage
+
+## Technical Scope
+
+Scope of SWG includes a progressive view of storage as defined by Cloud Native Storage; will review different types of storage (blocks, files, object, sql, nosql, key value, queues, time-series, logs, etc.) and different components in landscapes (interfaces, frameworks, tools, plugins, providers).
+
+
 ## Initiatives and Interesting Projects
 
 ### Container Storage Interface (CSI)

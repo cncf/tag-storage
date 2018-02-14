@@ -42,8 +42,4 @@ Here is a link to a World Time Zone Converter here:  http://www.thetimezoneconve
 
 Meeting minutes are recorded here: https://goo.gl/wRqerO
 
-Recordings of meeting calls:
-* [6/9/2017](https://youtu.be/qAw3y6rdRbs)
-* [7/18/2017](https://zoom.us/recording/play/zIMhdwzItxsEEUvFk7gYxTOqShJoOjrPcFcV0mHm9N-Rf1Ql6fypw59APZBsjmmG)
-* [8/8/2017](https://www.youtube.com/watch?v=d_zQFASkssU)
-* [9/20/2017](https://www.youtube.com/watch?v=PjB4qXeN-ks)
+Recordings of meeting calls at [YouTube channel](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA).

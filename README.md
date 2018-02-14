@@ -22,7 +22,7 @@ https://groups.google.com/forum/#!forum/cncf-wg-storage
 
 The Storage Working Group meets on the 2nd and 4th Wednesday of every month at 8AM PT (USA Pacific):
 
-Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/158580155
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/my/cncfstoragewg
 
 Or iPhone one-tap (US Toll):  +16465588656,158580155# or +14086380968,158580155#
 

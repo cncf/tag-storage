@@ -2,7 +2,19 @@
 
 ## Meetings
 
-TODO list meeting times + minutes
+The Storage SIG meets on the 2nd and 4th Wednesday of every month at 8AM PT (USA Pacific):
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/my/cncfstoragewg
+
+Or iPhone one-tap (US Toll): +16465588656,158580155# or +14086380968,158580155#
+
+Or Telephone: Dial: +1 646 558 8656 (US Toll) or +1 408 638 0968 (US Toll) Meeting ID: 158 580 155 International numbers available: https://zoom.us/zoomconference?m=0gvI03dCdRnx6WENPzdNhioORGmhVwYo
+
+## Mailing list and minutes
+
+Mailing lists: https://groups.google.com/forum/#!forum/cncf-wg-storage
+Meeting minutes are recorded here: https://goo.gl/wRqerO
+
 
 ## Areas Considered In Scope
 
@@ -106,5 +118,7 @@ guidelines](https://github.com/cncf/toc/blob/master/sigs/cncf-sigs.md#operating-
 provided by the TOC unless otherwise stated here.
 
 **Current TOC Liaison:** Xiang Li
+
 **[Proposed] Co-Chairs:** Alex Chircop, Quinton Hoole, “One Other TBD”
-**[Proposed] Tech Leads:** Saad Ali, Xing Yang, “One Other TBD”
+
+**[Proposed] Tech Leads:** Saad Ali, Xing Yang, Sugu Sougoumarane

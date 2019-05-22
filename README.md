@@ -41,4 +41,4 @@ provided by the TOC unless otherwise stated here.
 
 **Tech Leads:** Saad Ali, Xing Yang, Sugu Sougoumarane
 
-**Other named roles: **None at present; will be identified and staffed as needed.
+**Other named roles:** None at present; will be identified and staffed as needed.

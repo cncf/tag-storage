@@ -19,7 +19,7 @@ Meeting minutes are recorded here: bit.ly/cncf-storage-sig-minutes
 
 ## CNCF Storage SIG Charter
 
-The charter is available here: https://github.com/cncf/sig-storage/storage-charter.md
+The charter is available here: https://github.com/cncf/sig-storage/blob/master/storage-charter.md
 
 
 ## CNCF Storage Landscape Whitepaper

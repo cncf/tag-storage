@@ -21,6 +21,12 @@ Meeting minutes are recorded here: bit.ly/cncf-storage-sig-minutes
 
 The charter is available here: https://github.com/cncf/sig-storage/storage-charter.md
 
+
+## CNCF Storage Landscape Whitepaper
+
+The whitepaper is available here: http://bit.ly/cncf-storage-whitepaper
+
+
 ## Current CNCF Storage Projects
 
 1. TiKV
@@ -28,6 +34,7 @@ The charter is available here: https://github.com/cncf/sig-storage/storage-chart
 3. Vitess
 4. Rook
 5. OpenEBS
+
 
 ## Operating Model
 

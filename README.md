@@ -24,6 +24,14 @@ The charter is available here: https://github.com/cncf/sig-storage/storage-chart
 
 ## CNCF Storage Landscape Whitepaper
 
+The whitepaper documents the storage landscape by clarifying the terminology used in the storage space and comparing the differnt technologies with respect to their attributes and properties:
+
+-   Definition of the attributes of a storage system such that an end-user can understand the appropriate capabilities that might be required by an application or architectural pattern
+-   Definition of the layers in a storage solution (or service) with a focus on terminology and how they impact the defined attributes - covering the container, orchestrator, transport, topology, virtual/physical, data protection, data services and the non-volatile layers.
+-   Definition of the data access interfaces in terms of volume (including block, file system and shared file system) and application API (including object, KV and database) as high level groupings
+-   Separate sections with further detail on Block Storage, File systems, Object Storage and Key Value Stores
+-   Definition of the management interfaces needed to orchestrate the storage layers to facilitate composability, dynamic provisioning and self service management.
+
 The whitepaper is available here: http://bit.ly/cncf-storage-whitepaper
 
 

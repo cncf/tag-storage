@@ -14,7 +14,7 @@ Or Telephone: Dial: +1 646 558 8656 (US Toll) or +1 408 638 0968 (US Toll) Meeti
 
 Mailing lists: https://groups.google.com/forum/#!forum/cncf-wg-storage
 
-Meeting minutes are recorded here: https://goo.gl/wRqerO
+Meeting minutes are recorded here: bit.ly/cncf-storage-sig-minutes
 
 
 ## CNCF Storage SIG Charter

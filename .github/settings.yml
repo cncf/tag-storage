@@ -1,0 +1,24 @@
+repository:
+  # See https://developer.github.com/v3/repos/#edit for all available settings.
+
+  # The name of the repository. Changing this will rename the repository
+  name: sig-storage
+
+  # A short description of the repository that will show up on GitHub
+  description: 🗄CNCF Storage SIG
+
+  # A URL with more information about the repository
+  homepage: https://cncf.io
+  
+  # Collaborators: give specific users access to this repository.
+collaborators:
+  - username: chira001
+    # Note: Only valid on organization-owned repositories.
+    # The permission to grant the collaborator. Can be one of:
+    # * `pull` - can pull, but not push to or administer this repository.
+    # * `push` - can pull and push, but not administer this repository.
+    # * `admin` - can pull, push and administer this repository.
+    permission: admin
+
+  - username: sougou
+    permission: admin

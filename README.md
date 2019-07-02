@@ -37,11 +37,11 @@ The whitepaper is available here: http://bit.ly/cncf-storage-whitepaper
 
 ## Current CNCF Storage Projects
 
-1. TiKV
-2. etcd
-3. Vitess
-4. Rook
-5. OpenEBS
+- etcd
+- OpenEBS
+- Rook
+- TiKV
+- Vitess
 
 
 ## Operating Model

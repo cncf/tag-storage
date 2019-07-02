@@ -26,11 +26,11 @@ The charter is available here: https://github.com/cncf/sig-storage/blob/master/s
 
 The whitepaper documents the storage landscape by clarifying the terminology used in the storage space including:
 
--   the attributes of a storage system such that an end-user can understand the appropriate capabilities that might be required by an application or architectural pattern
--   the layers in a storage solution (or service) with a focus on terminology and how they impact the defined attributes - covering the container, orchestrator, transport, topology, virtual/physical, data protection, data services and the non-volatile layers.
--   the data access interfaces in terms of volume (including block, file system and shared file system) and application API (including object, KV and database) as high level groupings
--   separate sections with further detail on Block Storage, File systems, Object Storage and Key Value Stores
--   the management interfaces needed to orchestrate the storage layers to facilitate composability, dynamic provisioning and self service management.
+- The attributes of a storage system such that an end-user can understand the appropriate capabilities that might be required by an application or architectural pattern.
+- The layers in a storage solution (or service) with a focus on terminology and how they impact the defined attributes covering the container, orchestrator, transport, topology, virtual/physical, data protection, data services and the non-volatile layers.
+- The data access interfaces in terms of volume (including block, file system and shared file system) and application API (including object, KV and database) as high level groupings.
+- Separate sections with further detail on Block Storage, File systems, Object Storage and Key Value Stores.
+- The management interfaces needed to orchestrate the storage layers to facilitate composability, dynamic provisioning and self service management.
 
 The whitepaper is available here: http://bit.ly/cncf-storage-whitepaper
 

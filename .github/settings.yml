@@ -22,3 +22,9 @@ collaborators:
 
   - username: sougou
     permission: admin
+    
+  - username: quinton-hoole
+    permission: admin
+    
+  - username: erinboyd
+    permission: admin

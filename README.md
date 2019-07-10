@@ -52,8 +52,8 @@ provided by the TOC unless otherwise stated here.
 
 **Current TOC Liaison:** Xiang Li
 
-**Co-Chairs:** Alex Chircop, Quinton Hoole, (“One Other TBD”)
+**Co-Chairs:** Alex Chircop, Quinton Hoole, Erin Boyd
 
-**Tech Leads:** Saad Ali, Xing Yang, Sugu Sougoumarane
+**Tech Leads:** Saad Ali, Xing Yang, Sugu Sougoumarane, Brad Childs, Luis Pabon
 
 **Other named roles:** None at present; will be identified and staffed as needed.

@@ -44,6 +44,7 @@ The whitepaper is available here: http://bit.ly/cncf-storage-whitepaper
 - Rook
 - TiKV
 - Vitess
+- Longhorn
 
 
 ## Operating Model

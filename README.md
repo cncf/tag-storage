@@ -39,12 +39,13 @@ The whitepaper is available here: http://bit.ly/cncf-storage-whitepaper
 
 ## Current CNCF Storage Projects
 
-- etcd
-- OpenEBS
-- Rook
-- TiKV
-- Vitess
-- Longhorn
+- [etcd](https://github.com/etcd-io/etcd)
+- [ChubaoFS](https://github.com/chubaofs/chubaofs)
+- [Longhorn](https://github.com/longhorn/longhorn)
+- [OpenEBS](https://github.com/openebs)
+- [Rook](https://github.com/rook/rook)
+- [TiKV](https://github.com/tikv/tikv)
+- [Vitess](https://github.com/vitessio/vitess)
 
 
 ## Operating Model

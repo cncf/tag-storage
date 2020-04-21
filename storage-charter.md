@@ -69,11 +69,13 @@ cloud-native environments through:
 
 # Current CNCF Storage Projects
 
-1. TiKV
-2. etcd
-3. Vitess
-4. Rook
-5. OpenEBS
+- [etcd](https://github.com/etcd-io/etcd)
+- [ChubaoFS](https://github.com/chubaofs/chubaofs)
+- [Longhorn](https://github.com/longhorn/longhorn)
+- [OpenEBS](https://github.com/openebs)
+- [Rook](https://github.com/rook/rook)
+- [TiKV](https://github.com/tikv/tikv)
+- [Vitess](https://github.com/vitessio/vitess)
 
 # Interfaces With Other Related Groups
 
@@ -118,8 +120,8 @@ provided by the TOC unless otherwise stated here.
 
 **Current TOC Liaison:** Xiang Li
 
-**Co-Chairs:** Alex Chircop, Quinton Hoole, (“One Other TBD”)
+**Co-Chairs:** Alex Chircop, Quinton Hoole, Erin Boyd
 
-**Tech Leads:** Saad Ali, Xing Yang, Sugu Sougoumarane 
+**Tech Leads:** Saad Ali, Xing Yang, Sugu Sougoumarane, Luis Pabon
 
 **Other named roles:** None at present; will be identified and staffed as needed.

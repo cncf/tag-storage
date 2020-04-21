@@ -58,6 +58,6 @@ provided by the TOC unless otherwise stated here.
 
 **Co-Chairs:** Alex Chircop, Quinton Hoole, Erin Boyd
 
-**Tech Leads:** Saad Ali, Xing Yang, Sugu Sougoumarane, Brad Childs, Luis Pabon
+**Tech Leads:** Saad Ali, Xing Yang, Sugu Sougoumarane, Luis Pabon
 
 **Other named roles:** None at present; will be identified and staffed as needed.

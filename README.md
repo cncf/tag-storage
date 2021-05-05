@@ -1,10 +1,10 @@
-# CNCF Storage SIG
+# CNCF Storage TAG
 
 ## Meetings
 
-The Storage SIG meets on the 2nd and 4th Wednesday of every month at 8AM PT (USA Pacific):
+The Storage Technical Advisory Group meets on the 2nd and 4th Wednesday of every month at 8AM PT (USA Pacific):
 
-Join from PC, Mac, Linux, iOS or Android: https://zoom.us/my/cncfstoragewg
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/2920471159?pwd=em1JbE44MktjZE4vbnJtUUFQcGZwdz09
 
 Or iPhone one-tap (US Toll): +16465588656,158580155# or +14086380968,158580155#
 
@@ -12,16 +12,16 @@ Or Telephone: Dial: +1 646 558 8656 (US Toll) or +1 408 638 0968 (US Toll) Meeti
 
 ## Mailing list and minutes
 
-Mailing list: https://lists.cncf.io/g/cncf-sig-storage 
+Mailing list: https://lists.cncf.io/g/cncf-tag-storage 
 
 (note: the old WG mailing list is here: https://groups.google.com/forum/#!forum/cncf-wg-storage)
 
 Meeting minutes are recorded here: https://bit.ly/cncf-storage-sig-minutes
 
 
-## CNCF Storage SIG Charter
+## CNCF Storage TAG Charter
 
-The charter is available here: https://github.com/cncf/sig-storage/blob/master/storage-charter.md
+The charter is available here: https://github.com/cncf/tag-storage/blob/master/storage-charter.md
 
 
 ## CNCF Storage Landscape Whitepaper
@@ -50,14 +50,14 @@ The whitepaper is available here: http://bit.ly/cncf-storage-whitepaper
 
 ## Operating Model
 
-This SIG follows the [standard operating
+This TAG follows the [standard operating
 guidelines](https://github.com/cncf/toc/blob/master/sigs/cncf-sigs.md#operating-model)
 provided by the TOC unless otherwise stated here.
 
-**Current TOC Liaison:** Xiang Li
+**Current TOC Liaison:** Erin Boyd, Saad Ali
 
 **Co-Chairs:** Alex Chircop, Quinton Hoole, Erin Boyd
 
-**Tech Leads:** Saad Ali, Xing Yang, Sugu Sougoumarane, Luis Pabon
+**Tech Leads:** Raffaele Spazzoli, Xing Yang, Sugu Sougoumarane, Luis Pabon, Sheng Yang
 
 **Other named roles:** None at present; will be identified and staffed as needed.

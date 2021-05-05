@@ -2,10 +2,10 @@ repository:
   # See https://developer.github.com/v3/repos/#edit for all available settings.
 
   # The name of the repository. Changing this will rename the repository
-  name: sig-storage
+  name: tag-storage
 
   # A short description of the repository that will show up on GitHub
-  description: 🗄CNCF Storage SIG
+  description: 🗄CNCF Storage TAG
 
   # A URL with more information about the repository
   homepage: https://cncf.io

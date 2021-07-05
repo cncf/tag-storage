@@ -39,14 +39,25 @@ The whitepaper is available here: http://bit.ly/cncf-storage-whitepaper
 
 ## Current CNCF Storage Projects
 
+### Graduated Projects
+
 - [etcd](https://github.com/etcd-io/etcd)
-- [ChubaoFS](https://github.com/chubaofs/chubaofs)
-- [Longhorn](https://github.com/longhorn/longhorn)
-- [OpenEBS](https://github.com/openebs)
 - [Rook](https://github.com/rook/rook)
 - [TiKV](https://github.com/tikv/tikv)
 - [Vitess](https://github.com/vitessio/vitess)
 
+### Incubating Projects
+
+- [Dragonfly](https://github.com/dragonflyoss/Dragonfly)
+
+### Sandbox Projects
+
+- [ChubaoFS](https://github.com/chubaofs/chubaofs)
+- [Longhorn](https://github.com/longhorn/longhorn)
+- [OpenEBS](https://github.com/openebs)
+- [Pravega](https://github.com/pravega/pravega)
+- [Piraeus](https://github.com/piraeusdatastore/piraeus)
+- [Vineyard](https://github.com/v6d-io/v6d)
 
 ## Operating Model
 
@@ -56,8 +67,8 @@ provided by the TOC unless otherwise stated here.
 
 **Current TOC Liaison:** Erin Boyd, Saad Ali
 
-**Co-Chairs:** Alex Chircop, Quinton Hoole, Erin Boyd
+**Co-Chairs:** Alex Chircop, Quinton Hoole, Xing Yang
 
-**Tech Leads:** Raffaele Spazzoli, Xing Yang, Sugu Sougoumarane, Luis Pabon, Sheng Yang
+**Tech Leads:** Raffaele Spazzoli, Luis Pabon, Sheng Yang, Nick Connolly
 
 **Other named roles:** None at present; will be identified and staffed as needed.

@@ -122,6 +122,6 @@ provided by the TOC unless otherwise stated here.
 
 **Co-Chairs:** Alex Chircop, Quinton Hoole, Xing Yang
 
-**Tech Leads:** Nick Connolly, Sugu Sougoumarane, Luis Pabon
+**Tech Leads:** Raffaele Spazzoli, Luis Pabon, Sheng Yang, Nick Connolly
 
 **Other named roles:** None at present; will be identified and staffed as needed.

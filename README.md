@@ -131,14 +131,6 @@ If you are new to the group, we encourage you to check out our [New Members Page
 There are several groups that are affiliated to or do work and cover topics relevant
  to the work of storage TAG. These can be seen [here](governance/related-groups/)
 
-## History
-
-- TAG-storage - renamed STAG ([TOC Issue
-  #549](https://github.com/cncf/toc/issues/549))
-- SAFE WG - renamed to CNCF storage TAG
-- [(Proposed) CNCF Policy Working Group](/policy-wg-merging.md) - Merged into
-  SAFE WG
-
 ## Members
 <!-- cSpell:disable -->
 

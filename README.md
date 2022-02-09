@@ -82,7 +82,7 @@ The Storage Technical Advisory Group meets on the 2nd and 4th Wednesday of every
 See the  [CNCF Calendar](https://www.cncf.io/calendar/) for calendar invites.
 
 [Meeting minutes and
-agenda](https://docs.google.com/document/d/170y5biX9k95hYRwprITprG6Mc9xD5glVn-4mB2Jmi2g/)
+agenda](https://bit.ly/cncf-storage-sig-minutes)
 
 ### Zoom Meeting Details
 

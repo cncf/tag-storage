@@ -87,8 +87,7 @@ agenda](https://docs.google.com/document/d/170y5biX9k95hYRwprITprG6Mc9xD5glVn-4m
 ### Zoom Meeting Details
 
 <!-- cSpell:ignore cncftagstorage -->
-Meeting Link:
-[https://zoom.us/j/2920471159?pwd=em1JbE44MktjZE4vbnJtUUFQcGZwdz09)
+[Meeting Link](https://zoom.us/j/2920471159?pwd=em1JbE44MktjZE4vbnJtUUFQcGZwdz09)
 
 One tap mobile:
 

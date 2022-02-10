@@ -38,7 +38,7 @@ for your understanding:
 - [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
 
 Our PR also follows a particular writing
-style. Checkout the [style guide](https://github.com/cncf/tag-storage/blob/main/CONTRIBUTING/writing-style.md).
+style. Checkout the [style guide](https://github.com/cncf/tag-storage/blob/main/CONTRIB/writing-style.md).
 
 ## Other ways of communication
 

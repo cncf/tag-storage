@@ -22,7 +22,7 @@ nits.
 ##### Example of preferential language
 
 > They use cloud technologies with clear understanding of risks and the ability
-> to validate that their security policy decisions are reflected in deployed
+> to validate that their storage policy decisions are reflected in deployed
 > software.
 
 "Ability" is a human oriented term, "capability" is more technical and may be
@@ -30,13 +30,13 @@ more appropriate.
 
 Suggestion:
 > They use cloud technologies with clear understanding of risks and the
-> capability to validate their security policy decisions are reflected in
+> capability to validate their storage policy decisions are reflected in
 > deployed software.
 
 ##### Example of a nit
 
 > They use cloud-native technologies with clear understanding of risks and the
-> ability to validate that their security policy decisions are reflected in
+> ability to validate that their storage policy decisions are reflected in
 > deployed software.
 
 Per TOC definition of cloud native, it is not hyphenated.

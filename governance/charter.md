@@ -77,44 +77,9 @@ cloud-native environments through:
 - [TiKV](https://github.com/tikv/tikv)
 - [Vitess](https://github.com/vitessio/vitess)
 
-# Interfaces With Other Related Groups
-
-*   **Kubernetes Storage SIG** - is focussed towards
-    Kubernetes-specific storage abstractions, interfaces, and
-    implementations of these interfaces.  We maintain close
-    communication with this Kubernetes SIG, with several individuals
-    actively involved in both.  Our aim is to avoid unnecessary
-    duplication of effort by the two groups, and maintain clear an
-    consistent messaging by the two groups to our end user community
-    and projects.
-*   **CSI** - is focussed on defining an industry standard “Container
-    Storage Interface” (CSI) that will enable storage vendors to
-    develop a plugin once and have it work across a number of
-    container orchestration systems.  Again, we maintain close
-    communication with this group, and avoid unnecessary duplication
-    of effort and inconsistent messaging wherever possible.
-*   **CNCF Security SIG** - works on the more general area of
-    cloud-native security including authentication, authorization,
-    encryption, accounting, auditing and related topics.  We defer as
-    much as possible to this group to deal with general
-    security-related issues, and liaise closely with them on how to
-    deal with storage-specific security areas where these arise.
-*   **CNCF Apps SIG** (not yet fully formed) - will be focussed on the
-    development, deployment, operation and testing of cloud-native
-    applications.  We collaborate with this SIG where this pertains to
-    Storage.
-*   **K8s Apps SIG** - has done some work on how Kubernetes apps use
-    storage, as well as how storage systems (including databases) may
-    be deployed on Kubernetes .  We collaborate with Apps SIG and make
-    sure that important topics are well covered.
-*   **[Kubernetes Service Catalog SIG](https://github.com/kubernetes/community/tree/master/sig-service-catalog)**-
-    works on enabling external managed software offerings such as
-    datastore services offered by public cloud providers.
-
-
 # Operating Model
 
-This SIG follows the [standard operating
+This TAG follows the [standard operating
 guidelines](https://github.com/cncf/toc/blob/master/sigs/cncf-sigs.md#operating-model)
 provided by the TOC unless otherwise stated here.
 

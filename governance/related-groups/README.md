@@ -17,7 +17,7 @@ the work of Storage TAG.
     * Storage TAG members:
   * [Runtime](https://github.com/cncf/tag-runtime)
     * Storage TAG members:
-  * [Storage](https://github.com/cncf/tag-app-delivery)
+  * [Security](https://github.com/cncf/tag-security)
     * Storage TAG members:
 
 * [CNCF TOC](https://github.com/cncf/toc): Technical Oversight Committee

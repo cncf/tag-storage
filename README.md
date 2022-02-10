@@ -87,7 +87,7 @@ agenda](https://bit.ly/cncf-storage-sig-minutes)
 ### Zoom Meeting Details
 
 <!-- cSpell:ignore cncftagstorage -->
-[Meeting Link](https://zoom.us/j/2920471159?pwd=em1JbE44MktjZE4vbnJtUUFQcGZwdz09)
+[Meeting Link](https://zoom.us/j/2920471159?pwd=em1JbE44MktjZE4vbnJtUUFQcGZwdz09) (Password: 77777)
 
 One tap mobile:
 
@@ -135,9 +135,9 @@ There are several groups that are affiliated to or do work and cover topics rele
 
 ### Chairs
 
-- Alex Chircop
-- Quinton Hoole
-- Xing Yang
+- Alex Chircop [Chair term: ??? - ???]
+- Quinton Hoole [Chair term: ??? - ???]
+- Xing Yang [Chair term: ??? - ???]
 
 ### Tech Leads
 

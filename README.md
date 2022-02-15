@@ -13,37 +13,13 @@
 - [Members](#members)
 
 ## Objective
-
-STAG facilitates collaboration to discover and produce resources that enable
-secure access, policy control, and safety for operators, administrators,
-developers, and end-users across the cloud native ecosystem.
+<<objective>>
 
 ## Background
-
-“Cloud Native” is open source cloud computing for applications — a complete
-trusted toolkit for modern architectures.  There are multiple projects which
-address key parts of the problem of providing access controls and addressing
-safety concerns. Each of these adds value, yet for these technical solutions to
-be capable of working well together and manageable to operate they will need a
-minimal shared context of what defines a secure system architecture.
+<<background>>
 
 ## Vision
-
-There is a future where operators, administrators and developers feel confident
-creating new cloud native applications.  They use cloud technologies with clear
-understanding of risks and the ability to validate that their storage policy
-decisions are reflected in deployed software.
-
-We envision that there could exist an ecosystem of tools that can simplify the
-experience of cloud native operators, administrators and developers, including:
-
-1. System storage architecture that understands and accommodates the ever
-growing heterogeneity of systems and provides a framework to protect resources
-and data while servicing their users.
-2. Common vocabulary and open source libraries that make it easy for developers
-to create and deploy apps that meet system storage requirements.
-3. Common libraries and protocols that enable people to reason about the
-storage of the system, such as auditing and explainability features.
+<<vision!!!!!>>
 
 ## Governance
 
@@ -120,8 +96,6 @@ issue](https://github.com/cncf/tag-storage/issues/new) for an event and add to
 list below:
 
 - KubeCon + CloudNativeCon, Europe May 16-20 2022
-
-[Past events](past-events.md)
 
 ## New members
 

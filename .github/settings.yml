@@ -37,3 +37,6 @@ collaborators:
 
   - username: lpabon
     permission: admin
+
+  - username: dutchshark
+    permission: admin

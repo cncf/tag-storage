@@ -1,74 +1,109 @@
-# CNCF Storage TAG
+# CNCF storage Technical Advisory Group
 
-## Meetings
+<!-- cspell:disable -->
+<!-- markdownlint-disable-next-line MD033 MD013 -->
+<img src="design/logo/122128977-4050a380-cdea-11eb-84b7-191c8e73aac9.png" alt="Cloud Native Storage logo" width="400"/>
+<!-- cSpell:enable -->
 
-The Storage Technical Advisory Group meets on the 2nd and 4th Wednesday of every month at 8AM PT (USA Pacific):
+## Quick links
 
-Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/2920471159?pwd=em1JbE44MktjZE4vbnJtUUFQcGZwdz09
+- [Meeting Information](#meeting-times)
+- [Slack Information](#communications)
+- [New Members](#new-members)
+- [Members](#members)
 
-Or iPhone one-tap (US Toll): +16465588656,158580155# or +14086380968,158580155#
+## Governance
 
-Or Telephone: Dial: +1 646 558 8656 (US Toll) or +1 408 638 0968 (US Toll) Meeting ID: 158 580 155 International numbers available: https://zoom.us/zoomconference?m=0gvI03dCdRnx6WENPzdNhioORGmhVwYo
+[STAG charter](governance/charter.md) outlines the scope  of our group
+activities, as part of our [governance process](governance) which details how we
+work.
 
-## Mailing list and minutes
+## Communications
 
-Mailing list: https://lists.cncf.io/g/cncf-tag-storage 
+Anyone is welcome to join our open discussions of STAG projects and share news
+related to the group's mission and charter. Much of the work of the group
+happens outside of storage TAG meetings and we encourage project teams to share
+progress updates or post questions in these channels:
 
-(note: the old WG mailing list is here: https://groups.google.com/forum/#!forum/cncf-wg-storage)
+Group communication:
 
-Meeting minutes are recorded here: https://bit.ly/cncf-storage-sig-minutes
+- [Email list](https://lists.cncf.io/g/cncf-tag-storage)
+- [CNCF Slack](https://slack.cncf.io/) #tag-storage channel
 
+Leadership:
 
-## CNCF Storage TAG Charter
+- To reach the leadership team (chairs & tech leads), email
+  cncf-tag-storage-leads@lists.cncf.io
+- To reach the chairs, email cncf-tag-storage-chairs@lists.cncf.io
 
-The charter is available here: https://github.com/cncf/tag-storage/blob/master/storage-charter.md
+### Slack governance
 
+Refer to the [slack governance document](slack.md) for details on slack channels
+and posting to the channels.
 
-## CNCF Storage Landscape Whitepaper
+## Meeting times
 
-The whitepaper documents the storage landscape by clarifying the terminology used in the storage space including:
+Group meeting times are listed below:
+The Storage Technical Advisory Group meets on the 2nd and 4th Wednesday of every month at 8AM PT (USA Pacific).
 
-- The attributes of a storage system such that an end-user can understand the appropriate capabilities that might be required by an application or architectural pattern.
-- The layers in a storage solution (or service) with a focus on terminology and how they impact the defined attributes covering the container, orchestrator, transport, topology, virtual/physical, data protection, data services and the non-volatile layers.
-- The data access interfaces in terms of volume (including block, file system and shared file system) and application API (including object, KV and database) as high level groupings.
-- Separate sections with further detail on Block Storage, File systems, Object Storage and Key Value Stores.
-- The management interfaces needed to orchestrate the storage layers to facilitate composability, dynamic provisioning and self service management.
+See the  [CNCF Calendar](https://www.cncf.io/calendar/) for calendar invites.
 
-The whitepaper is available here: http://bit.ly/cncf-storage-whitepaper
+[Meeting minutes and
+agenda](https://bit.ly/cncf-storage-sig-minutes)
 
+### Zoom Meeting Details
 
-## Current CNCF Storage Projects
+<!-- cSpell:ignore cncftagstorage -->
+[Meeting Link](https://zoom.us/j/2920471159?pwd=em1JbE44MktjZE4vbnJtUUFQcGZwdz09) (Password: 77777)
 
-### Graduated Projects
+One tap mobile:
+| Location | Number |
+| --- | --- |
+|US (San Jose)|+16699006833,158580155#|
+|US (Tacoma)|+12532158782,158580155#|
+|US (Washington DC)|+13017158592,158580155#|
+|US (Chicago)|+13126266799,158580155#|
+|US (Houston)|+13462487799,158580155#|
+|US (New York)|+16465588656,158580155#|
 
-- [etcd](https://github.com/etcd-io/etcd)
-- [Rook](https://github.com/rook/rook)
-- [TiKV](https://github.com/tikv/tikv)
-- [Vitess](https://github.com/vitessio/vitess)
+Dial by your location:
+| Location | Number |
+| --- | --- |
+| US - New York | +1 646 558 8656|
+| US - San Jose | +1 669 900 6833|
+| US - Toll-free | 877 369 0926|
+| US - Toll-free | 855 880 1246|
+| Australia - Toll-free | 158 580 155|
 
-### Incubating Projects
+Or [find your local number](https://zoom.us/u/alwlmxlNn).
 
-- [Dragonfly](https://github.com/dragonflyoss/Dragonfly)
+Meeting ID: 158 580 155
 
-### Sandbox Projects
+## Gatherings
 
-- [ChubaoFS](https://github.com/chubaofs/chubaofs)
-- [Longhorn](https://github.com/longhorn/longhorn)
-- [OpenEBS](https://github.com/openebs)
-- [Pravega](https://github.com/pravega/pravega)
-- [Piraeus](https://github.com/piraeusdatastore/piraeus)
-- [Vineyard](https://github.com/v6d-io/v6d)
+Please let us know if you are going and if you are interested in attending (or
+helping to organize!) a gathering. Create a [github
+issue](https://github.com/cncf/tag-storage/issues/new) for an event and add to
+list below:
 
-## Operating Model
+- KubeCon + CloudNativeCon, Europe May 16-20 2022
 
-This TAG follows the [standard operating
-guidelines](https://github.com/cncf/toc/blob/master/sigs/cncf-sigs.md#operating-model)
-provided by the TOC unless otherwise stated here.
+## New members
 
-**Current TOC Liaison:** Erin Boyd, Saad Ali
+If you are new to the group, we encourage you to check out our [New Members Page](NEW-MEMBERS.md)
 
-**Co-Chairs:** Alex Chircop, Quinton Hoole, Xing Yang
+## Members
+<!-- cSpell:disable -->
 
-**Tech Leads:** Raffaele Spazzoli, Luis Pabon, Sheng Yang, Nick Connolly
+### Chairs
 
-**Other named roles:** None at present; will be identified and staffed as needed.
+- Alex Chircop [Chair term: ??? - ???]
+- Quinton Hoole [Chair term: ??? - ???]
+- Xing Yang [Chair term: ??? - ???]
+
+### Tech Leads
+
+ - Raffaele Spazzoli
+ - Luis Pabon
+ - Sheng Yang
+ - Nick Connolly

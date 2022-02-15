@@ -90,14 +90,16 @@ agenda](https://bit.ly/cncf-storage-sig-minutes)
 [Meeting Link](https://zoom.us/j/2920471159?pwd=em1JbE44MktjZE4vbnJtUUFQcGZwdz09) (Password: 77777)
 
 One tap mobile:
-
 | Location | Number |
 | --- | --- |
-| US - New York | +16465588656,158580155# |
-| US - ??? | +14086380968,158580155# |
+|US (SanJose)|+16699006833,158580155#|
+|US (Tacoma)|+12532158782,158580155#|
+|US (WashingtonDC)|+13017158592,158580155#|
+|US (Chicago)|+13126266799,158580155#|
+|US (Houston)|+13462487799,158580155#|
+|US (NewYork)|+16465588656,158580155#|
 
 Dial by your location:
-
 | Location | Number |
 | --- | --- |
 | US - New York | +1 646 558 8656 |
@@ -108,7 +110,7 @@ Dial by your location:
 
 Or [find your local number](https://zoom.us/u/alwlmxlNn).
 
-Meeting ID: 737 567 7271
+Meeting ID: 158 580 155
 
 ## Gatherings
 

@@ -1,15 +1,6 @@
 # TAG-Storage channels housekeeping
 
-## Identifying and creating channels
-Just for approved projects, "sec-assessment-xxxx" exception TAG-Storage channels
-are identified with the “tag-storage-” prefix.  Except during conferences, the
-CNCF permits slack members to create channels; however, tag-storage-related
-channels should only be created by chairs or tech leads, and are typically
-prefixed by tag-storage- following hyphenation of the topic/subject.  This
-helps the community find topics of relevance as well as discover areas to
-collaborate.
-
-It is requested that channels include a header for what it is used for.
+We're located on the CNCF workspace at [#tag-storage](https://cloud-native.slack.com/archives/C6PK4RLF7)
 
 Additional information may be found in the [CNCF slack guidelines](https://github.com/cncf/foundation/blob/master/slack-guidelines.md).
 

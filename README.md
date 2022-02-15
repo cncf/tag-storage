@@ -27,7 +27,7 @@ progress updates or post questions in these channels:
 
 Group communication:
 
-- [Email list](https://lists.cncf.io/g/cncf-tag-storage) [Old WG list](https://groups.google.com/forum/#!forum/cncf-wg-storage)
+- [Email list](https://lists.cncf.io/g/cncf-tag-storage)
 - [CNCF Slack](https://slack.cncf.io/) #tag-storage channel
 
 Leadership:

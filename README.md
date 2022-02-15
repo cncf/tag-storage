@@ -102,11 +102,11 @@ One tap mobile:
 Dial by your location:
 | Location | Number |
 | --- | --- |
-| US - New York | +1 646 558 8656 |
+| US - New York | +1 646 558 8656|
 | US - San Jose | +1 669 900 6833|
-| US - Toll-free | 877 369 0926 |
-| US - Toll-free | 855 880 1246 |
-| Australia - Toll-free | 158 580 155 |
+| US - Toll-free | 877 369 0926|
+| US - Toll-free | 855 880 1246|
+| Australia - Toll-free | 158 580 155|
 
 Or [find your local number](https://zoom.us/u/alwlmxlNn).
 

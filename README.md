@@ -12,15 +12,6 @@
 - [New Members](#new-members)
 - [Members](#members)
 
-## Objective
-<<objective>>
-
-## Background
-<<background>>
-
-## Vision
-<<vision!!!!!>>
-
 ## Governance
 
 [STAG charter](governance/charter.md) outlines the scope  of our group

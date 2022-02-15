@@ -92,11 +92,6 @@ list below:
 
 If you are new to the group, we encourage you to check out our [New Members Page](NEW-MEMBERS.md)
 
-## Related groups
-
-There are several groups that are affiliated to or do work and cover topics relevant
- to the work of storage TAG. These can be seen [here](governance/related-groups/)
-
 ## Members
 <!-- cSpell:disable -->
 

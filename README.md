@@ -92,12 +92,12 @@ agenda](https://bit.ly/cncf-storage-sig-minutes)
 One tap mobile:
 | Location | Number |
 | --- | --- |
-|US (SanJose)|+16699006833,158580155#|
+|US (San Jose)|+16699006833,158580155#|
 |US (Tacoma)|+12532158782,158580155#|
-|US (WashingtonDC)|+13017158592,158580155#|
+|US (Washington DC)|+13017158592,158580155#|
 |US (Chicago)|+13126266799,158580155#|
 |US (Houston)|+13462487799,158580155#|
-|US (NewYork)|+16465588656,158580155#|
+|US (New York)|+16465588656,158580155#|
 
 Dial by your location:
 | Location | Number |

@@ -34,7 +34,7 @@ The whitepaper documents the storage landscape by clarifying the terminology use
 - Separate sections with further detail on Block Storage, File systems, Object Storage and Key Value Stores.
 - The management interfaces needed to orchestrate the storage layers to facilitate composability, dynamic provisioning and self service management.
 
-The whitepaper is available here: http://bit.ly/cncf-storage-whitepaper
+The whitepaper is available here: https://bit.ly/cncf-storage-whitepaperV2
 
 
 ## Current CNCF Storage Projects

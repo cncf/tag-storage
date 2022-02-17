@@ -35,6 +35,7 @@ The whitepaper documents the storage landscape by clarifying the terminology use
 - The management interfaces needed to orchestrate the storage layers to facilitate composability, dynamic provisioning and self service management.
 
 The whitepaper is available here: https://bit.ly/cncf-storage-whitepaperV2
+
 PDF copy is available in the repo here: https://github.com/cncf/tag-storage/blob/master/CNCF%20Storage%20Whitepaper%20V2.pdf
 
 

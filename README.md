@@ -39,6 +39,20 @@ The whitepaper is available here: https://bit.ly/cncf-storage-whitepaperV2
 PDF copy is available in the repo here: https://github.com/cncf/tag-storage/blob/master/CNCF%20Storage%20Whitepaper%20V2.pdf
 
 
+## Cloud Native Disaster Recovery Whitepaper
+
+This document covers how disaster recovery is implemented in cloud native environments and covers:
+
+- Definition of Cloud Native Disaster Recovery (CNDR) including failure domains, HA & DR
+- CAP theorem: Consistency, Availability, Network Partitioning 
+- Anatomy of Distributed Stateful workloads: Replicas, Shards, API Layer, Storage Layer
+- Consensus Protocols: Paxos, Raft, 2PC, 3PC
+- CNDR Reference Architectures
+
+The document is available here: https://bit.ly/cncf-cloud-native-DR
+
+PDF copy is availaber in the repo here: https://github.com/cncf/tag-storage/blob/master/Cloud%20Native%20Disaster%20Recovery.pdf
+
 ## Current CNCF Storage Projects
 
 ### Graduated Projects

@@ -70,9 +70,10 @@ cloud-native environments through:
 # Current CNCF Storage Projects
 
 - [etcd](https://github.com/etcd-io/etcd)
-- [ChubaoFS](https://github.com/chubaofs/chubaofs)
+- [CubeFS](https://github.com/cubeFS/cubefs)
 - [Longhorn](https://github.com/longhorn/longhorn)
 - [OpenEBS](https://github.com/openebs)
+- [Piraeus](https://github.com/piraeusdatastore/piraeus)
 - [Rook](https://github.com/rook/rook)
 - [TiKV](https://github.com/tikv/tikv)
 - [Vitess](https://github.com/vitessio/vitess)

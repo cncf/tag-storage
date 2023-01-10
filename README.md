@@ -66,10 +66,10 @@ PDF copy is availaber in the repo here: https://github.com/cncf/tag-storage/blob
 
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly)
 - [CubeFS](https://github.com/cubefs/cubefs)
+- [Longhorn](https://github.com/longhorn/longhorn)
 
 ### Sandbox Projects
 
-- [Longhorn](https://github.com/longhorn/longhorn)
 - [OpenEBS](https://github.com/openebs)
 - [Pravega](https://github.com/pravega/pravega)
 - [Piraeus](https://github.com/piraeusdatastore/piraeus)

@@ -65,10 +65,10 @@ PDF copy is availaber in the repo here: https://github.com/cncf/tag-storage/blob
 ### Incubating Projects
 
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly)
+- [CubeFS](https://github.com/cubefs/cubefs)
 
 ### Sandbox Projects
 
-- [ChubaoFS](https://github.com/chubaofs/chubaofs)
 - [Longhorn](https://github.com/longhorn/longhorn)
 - [OpenEBS](https://github.com/openebs)
 - [Pravega](https://github.com/pravega/pravega)

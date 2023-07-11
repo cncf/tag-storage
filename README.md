@@ -81,7 +81,7 @@ This TAG follows the [standard operating
 guidelines](https://github.com/cncf/toc/blob/master/sigs/cncf-sigs.md#operating-model)
 provided by the TOC unless otherwise stated here.
 
-**Current TOC Liaison:** Erin Boyd, Saad Ali
+**Current TOC Liaison:** Nikhita Raghunath, Matt Farina
 
 **Co-Chairs:** Alex Chircop, Quinton Hoole, Xing Yang
 

@@ -58,22 +58,27 @@ PDF copy is availaber in the repo here: https://github.com/cncf/tag-storage/blob
 ### Graduated Projects
 
 - [etcd](https://github.com/etcd-io/etcd)
+- [Harbor](https://github.com/goharbor/harbor)
 - [Rook](https://github.com/rook/rook)
 - [TiKV](https://github.com/tikv/tikv)
 - [Vitess](https://github.com/vitessio/vitess)
 
 ### Incubating Projects
 
-- [Dragonfly](https://github.com/dragonflyoss/Dragonfly)
 - [CubeFS](https://github.com/cubefs/cubefs)
+- [Dragonfly](https://github.com/dragonflyoss/Dragonfly)
 - [Longhorn](https://github.com/longhorn/longhorn)
 
 ### Sandbox Projects
 
+- [Carina](https://github.com/carina-io/carina)
+- [Hwameistor](https://github.com/hwameistor/hwameistor)
+- [K8up](https://github.com/k8up-io/k8up)
 - [OpenEBS](https://github.com/openebs)
 - [Pravega](https://github.com/pravega/pravega)
 - [Piraeus](https://github.com/piraeusdatastore/piraeus)
 - [Vineyard](https://github.com/v6d-io/v6d)
+- [Xline](https://github.com/xline-kv/Xline)(onboarding)
 
 ## Operating Model
 
@@ -83,8 +88,8 @@ provided by the TOC unless otherwise stated here.
 
 **Current TOC Liaison:** Nikhita Raghunath, Matt Farina
 
-**Co-Chairs:** Alex Chircop, Quinton Hoole, Xing Yang
+**Co-Chairs:** Alex Chircop, Xing Yang, Raffaele Spazzoli
 
-**Tech Leads:** Raffaele Spazzoli, Luis Pabon, Sheng Yang, Nick Connolly
+**Tech Leads:** Luis Pabon, Sheng Yang, Nick Connolly
 
 **Other named roles:** None at present; will be identified and staffed as needed.

@@ -79,6 +79,7 @@ PDF copy is availaber in the repo here: https://github.com/cncf/tag-storage/blob
 - [Piraeus](https://github.com/piraeusdatastore/piraeus)
 - [Vineyard](https://github.com/v6d-io/v6d)
 - [Xline](https://github.com/xline-kv/Xline)(onboarding)
+- [Curve](https://github.com/opencurve/curve)
 
 ## Operating Model
 

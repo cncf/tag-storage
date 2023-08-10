@@ -72,6 +72,7 @@ PDF copy is availaber in the repo here: https://github.com/cncf/tag-storage/blob
 ### Sandbox Projects
 
 - [Carina](https://github.com/carina-io/carina)
+- [Curve](https://github.com/opencurve/curve)
 - [Hwameistor](https://github.com/hwameistor/hwameistor)
 - [K8up](https://github.com/k8up-io/k8up)
 - [OpenEBS](https://github.com/openebs)

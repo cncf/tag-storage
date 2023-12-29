@@ -53,6 +53,19 @@ The document is available here: https://bit.ly/cncf-cloud-native-DR
 
 PDF copy is availaber in the repo here: https://github.com/cncf/tag-storage/blob/master/Cloud%20Native%20Disaster%20Recovery.pdf
 
+## Data on Kubernetes Whitepaper - Database Patterns
+
+This document describes patterns of running data on Kubernetes. This is a collaboration between TAG Storage and [Data on Kubernetes Community](https://dok.community/) (DoKC). In this version of the whitepaper, we are focusing on database workloads. It covers the following:
+
+- Attributes of a storage system and how they affect running data in Kubernetes
+- Running data inside vs outside of Kubernetes
+- Common Kubernetes patterns and features used when running data on Kubernetes
+- Observability
+- Security
+- Day 2 operations
+
+The document is available [here](data-on-kubernetes-whitepaper/data-on-kubernetes-whitepaper-databases.md).
+
 ## Current CNCF Storage Projects
 
 ### Graduated Projects

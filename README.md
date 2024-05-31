@@ -97,7 +97,7 @@ The document is available [here](data-on-kubernetes-whitepaper/data-on-kubernete
 ## Operating Model
 
 This TAG follows the [standard operating
-guidelines](https://github.com/cncf/toc/blob/master/sigs/cncf-sigs.md#operating-model)
+guidelines](https://github.com/cncf/toc/blob/main/tags/README.md#operating-model)
 provided by the TOC unless otherwise stated here.
 
 **Current TOC Liaison:** Nikhita Raghunath, Matt Farina

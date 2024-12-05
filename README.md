@@ -51,7 +51,7 @@ This document covers how disaster recovery is implemented in cloud native enviro
 
 The document is available here: https://bit.ly/cncf-cloud-native-DR
 
-PDF copy is availaber in the repo [her](https://github.com/cncf/tag-storage/blob/master/cloud-native-disaster-recovery-whitepaper/Cloud%20Native%20Disaster%20Recovery%20V1.pdf).
+PDF copy is availaber in the repo here: https://github.com/cncf/tag-storage/blob/master/Cloud%20Native%20Disaster%20Recovery.pdf
 
 ## Data on Kubernetes Whitepaper - Database Patterns
 
